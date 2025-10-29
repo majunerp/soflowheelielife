@@ -52,7 +52,7 @@ export default function Home() {
             {/* Featured Game Embed */}
             <div className="max-w-5xl mx-auto">
               <GameEmbed
-                src="https://soflowheelielife.com/embed/soflo-wheelie-life.html"
+                src="https://scratch.mit.edu/projects/1231016758/embed"
                 title="SoFlo Wheelie Life - Motorcycle Wheelie Game"
               />
             </div>
