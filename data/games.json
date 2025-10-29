@@ -1,0 +1,185 @@
+[
+  {
+    "id": "soflo-wheelie-life",
+    "slug": "soflo-wheelie-life",
+    "title": "SoFlo Wheelie Life",
+    "description": "Experience the ultimate street wheelie motorcycle game! SoFlo Wheelie Life brings the thrill of South Florida street motorcycle culture to your browser. Master the art of wheelies, perform incredible stunts, customize your bike, and dominate the streets. This free online game features realistic physics, stunning graphics, and addictive gameplay that will keep you coming back for more.",
+    "thumbnail": "/images/games/soflo-wheelie-life.jpg",
+    "embedUrl": "https://soflowheelielife.com/embed/soflo-wheelie-life.html",
+    "category": "wheelie",
+    "controls": [
+      { "key": "↑ / W", "action": "Accelerate" },
+      { "key": "↓ / S", "action": "Brake / Reverse" },
+      { "key": "← / A", "action": "Balance Backward" },
+      { "key": "→ / D", "action": "Balance Forward" },
+      { "key": "Space", "action": "Wheelie" },
+      { "key": "Shift", "action": "Boost" }
+    ],
+    "tags": ["wheelie", "motorcycle", "stunt", "street racing", "soflo", "bike game", "free game"],
+    "featured": true,
+    "rating": 4.8,
+    "plays": 125000
+  },
+  {
+    "id": "wheelie-life",
+    "slug": "wheelie-life",
+    "title": "Wheelie Life",
+    "description": "The classic Wheelie Life game that started it all! Perfect your wheelie skills on various motorcycles and bikes. This exciting bike stunt simulator features multiple levels, challenging obstacles, and realistic physics. Master the balance, perform epic stunts, and become the wheelie champion. Play this addictive motorcycle game free in your browser.",
+    "thumbnail": "/images/games/wheelie-life.jpg",
+    "embedUrl": "https://html5.gamedistribution.com/c77db34b65a04d6aa92fbb40c8f01f33/",
+    "category": "wheelie",
+    "controls": [
+      { "key": "↑", "action": "Accelerate" },
+      { "key": "↓", "action": "Brake" },
+      { "key": "← →", "action": "Balance" }
+    ],
+    "tags": ["wheelie", "motorcycle", "balance", "stunt game", "bike simulator"],
+    "featured": true,
+    "rating": 4.5,
+    "plays": 98000
+  },
+  {
+    "id": "wheelie-life-2",
+    "slug": "wheelie-life-2",
+    "title": "Wheelie Life 2",
+    "description": "Wheelie Life 2 takes motorcycle stunt gaming to the next level with improved graphics, more bikes, and enhanced physics. Experience new challenges, unlock powerful motorcycles, and explore exciting street racing environments. This sequel delivers even more thrilling wheelie action with advanced customization options and competitive gameplay.",
+    "thumbnail": "/images/games/wheelie-life-2.jpg",
+    "embedUrl": "https://html5.gamedistribution.com/8d3a7d8c9b1e4f5a6c2d3e4f5a6b7c8d/",
+    "category": "wheelie",
+    "controls": [
+      { "key": "↑", "action": "Accelerate" },
+      { "key": "↓", "action": "Brake" },
+      { "key": "← →", "action": "Balance" },
+      { "key": "Space", "action": "Special Stunt" }
+    ],
+    "tags": ["wheelie", "sequel", "motorcycle", "racing", "stunt"],
+    "featured": true,
+    "rating": 4.7,
+    "plays": 87000
+  },
+  {
+    "id": "wheelie-life-3",
+    "slug": "wheelie-life-3",
+    "title": "Wheelie Life 3",
+    "description": "The latest installment in the Wheelie Life series! Wheelie Life 3 features cutting-edge graphics, advanced stunt mechanics, and the most realistic motorcycle physics yet. Challenge yourself with extreme wheelie stunts, customize your dream bike, and compete against players worldwide. This is the ultimate free online motorcycle stunt game.",
+    "thumbnail": "/images/games/wheelie-life-3.jpg",
+    "embedUrl": "https://html5.gamedistribution.com/9e4b8e9d0c2f5a6b7c8d9e0f1a2b3c4d/",
+    "category": "wheelie",
+    "controls": [
+      { "key": "WASD", "action": "Control Bike" },
+      { "key": "Space", "action": "Wheelie" },
+      { "key": "Shift", "action": "Nitro Boost" }
+    ],
+    "tags": ["wheelie", "3D", "motorcycle", "stunt simulator", "latest"],
+    "featured": true,
+    "rating": 4.9,
+    "plays": 112000
+  },
+  {
+    "id": "moto-x3m",
+    "slug": "moto-x3m",
+    "title": "Moto X3M",
+    "description": "Moto X3M is an exhilarating motorcycle racing game packed with insane stunts, deadly obstacles, and explosive action. Race through challenging levels, perform flips and tricks, and beat the clock. With its addictive gameplay and smooth controls, Moto X3M delivers non-stop motorcycle thrills in your browser.",
+    "thumbnail": "/images/games/moto-x3m.jpg",
+    "embedUrl": "https://html5.gamedistribution.com/5a4b6c7d8e9f0a1b2c3d4e5f6a7b8c9d/",
+    "category": "racing",
+    "controls": [
+      { "key": "↑", "action": "Accelerate" },
+      { "key": "↓", "action": "Brake" },
+      { "key": "← →", "action": "Tilt / Flip" }
+    ],
+    "tags": ["racing", "motorcycle", "stunt", "obstacle course", "extreme"],
+    "featured": true,
+    "rating": 4.6,
+    "plays": 156000
+  },
+  {
+    "id": "bike-stunts",
+    "slug": "bike-stunts",
+    "title": "Bike Stunts",
+    "description": "Master incredible bike stunts in this action-packed motorcycle stunt game. Bike Stunts offers challenging ramps, loops, and obstacles that will test your skills. Perform amazing tricks, maintain perfect balance, and unlock new motorcycles. Perfect for fans of extreme sports and motorcycle stunt games.",
+    "thumbnail": "/images/games/bike-stunts.jpg",
+    "embedUrl": "https://html5.gamedistribution.com/6b7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e/",
+    "category": "stunt",
+    "controls": [
+      { "key": "Arrow Keys", "action": "Control Bike" },
+      { "key": "Space", "action": "Jump" }
+    ],
+    "tags": ["stunt", "motorcycle", "tricks", "balance", "extreme sports"],
+    "featured": false,
+    "rating": 4.4,
+    "plays": 73000
+  },
+  {
+    "id": "highway-rider-extreme",
+    "slug": "highway-rider-extreme",
+    "title": "Highway Rider Extreme",
+    "description": "Take your motorcycle to the extreme on busy highways! Highway Rider Extreme combines high-speed racing with daring stunts. Weave through traffic, perform wheelies, and race against time. This fast-paced motorcycle game features realistic traffic, multiple bikes, and endless highway action.",
+    "thumbnail": "/images/games/highway-rider-extreme.jpg",
+    "embedUrl": "https://html5.gamedistribution.com/7c8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f/",
+    "category": "racing",
+    "controls": [
+      { "key": "↑", "action": "Accelerate" },
+      { "key": "← →", "action": "Steer / Change Lane" },
+      { "key": "Space", "action": "Wheelie" }
+    ],
+    "tags": ["highway", "racing", "traffic", "motorcycle", "speed"],
+    "featured": false,
+    "rating": 4.3,
+    "plays": 64000
+  },
+  {
+    "id": "wheelie-challenge",
+    "slug": "wheelie-challenge",
+    "title": "Wheelie Challenge",
+    "description": "How long can you hold a wheelie? Wheelie Challenge tests your balance skills in this addictive motorcycle wheelie game. Simple to learn but hard to master, this game challenges you to maintain the perfect wheelie for as long as possible. Compete for high scores and unlock new bikes in this ultimate wheelie simulator.",
+    "thumbnail": "/images/games/wheelie-challenge.jpg",
+    "embedUrl": "https://html5.gamedistribution.com/8d9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a/",
+    "category": "wheelie",
+    "controls": [
+      { "key": "Hold Touch/Click", "action": "Wheelie" },
+      { "key": "Release", "action": "Lower Front Wheel" }
+    ],
+    "tags": ["wheelie", "challenge", "balance", "highscore", "motorcycle"],
+    "featured": false,
+    "rating": 4.2,
+    "plays": 59000
+  },
+  {
+    "id": "stunt-simulator",
+    "slug": "stunt-simulator",
+    "title": "Stunt Simulator",
+    "description": "The ultimate motorcycle stunt simulator with realistic physics and endless possibilities! Stunt Simulator lets you perform jaw-dropping tricks, customize your bike, and explore massive stunt parks. With advanced controls and realistic bike handling, this is the most immersive motorcycle stunt experience available online.",
+    "thumbnail": "/images/games/stunt-simulator.jpg",
+    "embedUrl": "https://html5.gamedistribution.com/9e0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b/",
+    "category": "stunt",
+    "controls": [
+      { "key": "WASD", "action": "Ride" },
+      { "key": "Space", "action": "Brake" },
+      { "key": "Shift", "action": "Nitro" },
+      { "key": "C", "action": "Camera" }
+    ],
+    "tags": ["simulator", "stunt", "motorcycle", "realistic", "3D"],
+    "featured": true,
+    "rating": 4.7,
+    "plays": 94000
+  },
+  {
+    "id": "trial-xtreme",
+    "slug": "trial-xtreme",
+    "title": "Trial Xtreme",
+    "description": "Experience extreme motorcycle trials in Trial Xtreme! Navigate treacherous terrain, overcome challenging obstacles, and master precision bike control. This intense motorcycle trial game features realistic physics, stunning environments, and progressively difficult levels that will push your skills to the limit.",
+    "thumbnail": "/images/games/trial-xtreme.jpg",
+    "embedUrl": "https://html5.gamedistribution.com/0f1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c/",
+    "category": "stunt",
+    "controls": [
+      { "key": "↑", "action": "Accelerate" },
+      { "key": "↓", "action": "Brake/Reverse" },
+      { "key": "← →", "action": "Balance" }
+    ],
+    "tags": ["trial", "extreme", "motorcycle", "obstacle", "precision"],
+    "featured": false,
+    "rating": 4.5,
+    "plays": 81000
+  }
+]
