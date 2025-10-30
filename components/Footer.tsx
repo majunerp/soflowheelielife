@@ -6,18 +6,23 @@ export default function Footer() {
   return (
     <footer className="bg-black border-t border-[#00D9FF]/20 mt-auto">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {/* Brand */}
-          <div className="col-span-1 md:col-span-2">
+          <div>
             <Link href="/" className="flex items-center space-x-2 mb-4">
               <span className="text-2xl">🏍️</span>
               <span className="text-xl font-bold bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] bg-clip-text text-transparent">
                 SoFlo Wheelie Life
               </span>
             </Link>
-            <p className="text-gray-400 max-w-md mb-4">
+            <p className="text-gray-400 max-w-md">
               Experience the ultimate collection of free online motorcycle wheelie and stunt games. Master wheelies, perform incredible stunts, and dominate the streets in your browser.
             </p>
+          </div>
+
+          {/* Social Links */}
+          <div className="flex flex-col items-start md:items-end">
+            <h3 className="text-white font-semibold mb-4">Follow Us</h3>
             <div className="flex space-x-4">
               <a href="https://www.tiktok.com/@soflowheelielife" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-[#00D9FF] transition-colors" aria-label="TikTok">
                 <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24">
@@ -35,45 +40,6 @@ export default function Footer() {
                 </svg>
               </a>
             </div>
-          </div>
-
-          {/* Quick Links */}
-          <div>
-            <h3 className="text-white font-semibold mb-4">Quick Links</h3>
-            <ul className="space-y-2">
-              <li>
-                <Link href="/games" className="text-gray-400 hover:text-[#00D9FF] transition-colors">
-                  All Games
-                </Link>
-              </li>
-              <li>
-                <Link href="/controls" className="text-gray-400 hover:text-[#00D9FF] transition-colors">
-                  How to Play
-                </Link>
-              </li>
-              <li>
-                <Link href="/about" className="text-gray-400 hover:text-[#00D9FF] transition-colors">
-                  About Us
-                </Link>
-              </li>
-            </ul>
-          </div>
-
-          {/* Legal */}
-          <div>
-            <h3 className="text-white font-semibold mb-4">Legal</h3>
-            <ul className="space-y-2">
-              <li>
-                <Link href="/privacy" className="text-gray-400 hover:text-[#00D9FF] transition-colors">
-                  Privacy Policy
-                </Link>
-              </li>
-              <li>
-                <Link href="/terms" className="text-gray-400 hover:text-[#00D9FF] transition-colors">
-                  Terms of Service
-                </Link>
-              </li>
-            </ul>
           </div>
         </div>
 

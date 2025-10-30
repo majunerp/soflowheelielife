@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import GameEmbed from '@/components/GameEmbed';
 import GameCard from '@/components/GameCard';
 import { getFeaturedGames } from '@/lib/games';
@@ -33,26 +32,20 @@ export default function Home() {
               <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
                 Master the Ultimate Motorcycle Wheelie Experience - Play Free Online Stunt Games
               </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <Link
-                  href="/games/soflo-wheelie-life"
+              <div className="flex justify-center">
+                <a
+                  href="#game"
                   className="bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] text-white px-8 py-4 rounded-lg font-bold text-lg hover:opacity-90 transition-opacity inline-flex items-center justify-center"
                 >
                   ▶ Play SoFlo Wheelie Life Now
-                </Link>
-                <Link
-                  href="/games"
-                  className="border-2 border-[#00D9FF] text-[#00D9FF] px-8 py-4 rounded-lg font-bold text-lg hover:bg-[#00D9FF]/10 transition-colors inline-flex items-center justify-center"
-                >
-                  View All Games
-                </Link>
+                </a>
               </div>
             </div>
 
             {/* Featured Game Embed */}
-            <div className="max-w-5xl mx-auto">
+            <div id="game" className="max-w-5xl mx-auto">
               <GameEmbed
-                src="https://scratch.mit.edu/projects/1231016758/embed"
+                src="https://game.azgame.io/street-wheelie/"
                 title="SoFlo Wheelie Life - Motorcycle Wheelie Game"
               />
             </div>
@@ -199,41 +192,6 @@ export default function Home() {
                   </li>
                 </ul>
               </div>
-            </div>
-
-            <div className="mt-8 text-center">
-              <Link
-                href="/controls"
-                className="text-[#00D9FF] hover:text-[#FF00FF] transition-colors font-semibold"
-              >
-                View Complete Control Guide →
-              </Link>
-            </div>
-          </div>
-        </section>
-
-        {/* Featured Games Grid */}
-        <section className="py-16 px-4 bg-gradient-to-b from-gray-900 to-black">
-          <div className="max-w-7xl mx-auto">
-            <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-              <span className="bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] bg-clip-text text-transparent">
-                Featured Motorcycle Stunt Games
-              </span>
-            </h2>
-
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
-              {featuredGames.slice(0, 6).map((game) => (
-                <GameCard key={game.id} game={game} />
-              ))}
-            </div>
-
-            <div className="text-center">
-              <Link
-                href="/games"
-                className="bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] text-white px-8 py-4 rounded-lg font-bold text-lg hover:opacity-90 transition-opacity inline-block"
-              >
-                Browse All {featuredGames.length} Games
-              </Link>
             </div>
           </div>
         </section>
