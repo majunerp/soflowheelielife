@@ -1,3 +1,4 @@
+import Link from 'next/link';
 import GameEmbed from '@/components/GameEmbed';
 import GameCard from '@/components/GameCard';
 import { getFeaturedGames } from '@/lib/games';
@@ -192,6 +193,15 @@ export default function Home() {
                   </li>
                 </ul>
               </div>
+            </div>
+
+            <div className="mt-8 text-center">
+              <Link
+                href="/guide"
+                className="inline-flex items-center text-[#00D9FF] hover:text-[#FF00FF] transition-colors font-semibold text-lg"
+              >
+                View Complete Game Guide & Advanced Techniques →
+              </Link>
             </div>
           </div>
         </section>
