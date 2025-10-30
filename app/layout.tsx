@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "SoFlo Wheelie Life - Free Motorcycle Stunt Games",
-  description: "Play SoFlo Wheelie Life and master motorcycle stunts online. Ultimate collection of free wheelie games, stunt simulators, and bike racing.",
+  description: "Play SoFlo Wheelie Life and master motorcycle stunts online. Ultimate collection of free wheelie games, stunt simulators, and bike racing. No download required!",
   keywords: ["soflo wheelie life", "motorcycle wheelie game", "stunt simulator", "free bike games", "wheelie games online", "motorcycle stunt games"],
   metadataBase: new URL('https://soflo-wheelie-life.com'),
   alternates: {
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: "SoFlo Wheelie Life - Free Motorcycle Stunt Games",
-    description: "Play SoFlo Wheelie Life and master motorcycle stunts online. Ultimate collection of free wheelie games, stunt simulators, and bike racing.",
+    description: "Play SoFlo Wheelie Life and master motorcycle stunts online. Ultimate collection of free wheelie games, stunt simulators, and bike racing. No download required!",
     url: 'https://soflo-wheelie-life.com/',
     siteName: 'SoFlo Wheelie Life',
     images: [
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: "SoFlo Wheelie Life - Free Motorcycle Stunt Games",
-    description: "Play SoFlo Wheelie Life and master motorcycle stunts online. Ultimate collection of free wheelie games, stunt simulators, and bike racing.",
+    description: "Play SoFlo Wheelie Life and master motorcycle stunts online. Ultimate collection of free wheelie games, stunt simulators, and bike racing. No download required!",
     images: ['https://soflo-wheelie-life.com/images/og-image.jpg'],
   },
   robots: {
