@@ -30,7 +30,7 @@ export default function Home() {
                 SoFlo Wheelie Life
               </h1>
               <p className="text-xl md:text-2xl text-gray-300 mb-8 max-w-3xl mx-auto">
-                Master the Ultimate Motorcycle Wheelie Experience - Play Free Online Stunt Games
+                Master the Ultimate Motorcycle Wheelie Experience with SoFlo Wheelie Life - Play Free Online Stunt Games
               </p>
               <div className="flex justify-center">
                 <a
@@ -60,11 +60,11 @@ export default function Home() {
             </h2>
             <div className="prose prose-invert prose-lg max-w-none text-gray-300 space-y-6">
               <p>
-                Welcome to <strong>SoFlo Wheelie Life</strong>, your ultimate destination for free online motorcycle wheelie games and stunt simulators. Immerse yourself in the exhilarating world of South Florida street motorcycle culture, where mastering the perfect wheelie is an art form. Our motorcycle wheelie games platform brings you the most exciting collection of motorcycle stunt games, allowing you to experience the adrenaline rush of street wheelies right in your browser—no downloads required.
+                Welcome to <strong>SoFlo Wheelie Life</strong>, your ultimate destination for free online motorcycle wheelie games and stunt simulators. Immerse yourself in the exhilarating world of South Florida street motorcycle culture with <strong>SoFlo Wheelie Life</strong>, where mastering the perfect wheelie is an art form. Our motorcycle wheelie games platform brings you the most exciting collection of motorcycle stunt games, allowing you to experience the adrenaline rush of street wheelies right in your browser—no downloads required.
               </p>
 
               <p>
-                <strong>SoFlo Wheelie Life</strong> is more than just a game; it's a complete motorcycle stunt gaming experience. Whether you're a beginner learning your first wheelie in our wheelie games or an experienced rider perfecting advanced stunts, our motorcycle wheelie games offer realistic physics, stunning graphics, and addictive gameplay that keeps you coming back for more. Experience the authentic street motorcycle culture of South Florida through our carefully curated collection of wheelie games and motorcycle stunt simulators.
+                <strong>SoFlo Wheelie Life</strong> is more than just a game; it's a complete motorcycle stunt gaming experience designed for wheelie enthusiasts worldwide. Whether you're a beginner learning your first wheelie in our <strong>SoFlo Wheelie Life</strong> wheelie games or an experienced rider perfecting advanced stunts, our motorcycle wheelie games offer realistic physics, stunning graphics, and addictive gameplay that keeps you coming back for more. Experience the authentic street motorcycle culture of South Florida through our carefully curated collection of wheelie games and motorcycle stunt simulators.
               </p>
 
               <h3 className="text-2xl font-bold mt-8 mb-4 text-[#FF00FF]">
@@ -72,23 +72,23 @@ export default function Home() {
               </h3>
 
               <p>
-                Our platform stands out as the premier destination for motorcycle wheelie enthusiasts and stunt game lovers. <strong>SoFlo Wheelie Life</strong> features an extensive collection of the best motorcycle stunt games available online, including Wheelie Life, Wheelie Life 2, Wheelie Life 3, and many more exciting titles. Each game is handpicked to deliver authentic wheelie mechanics, challenging gameplay, and hours of entertainment.
+                Our platform stands out as the premier destination for motorcycle wheelie enthusiasts and stunt game lovers. <strong>SoFlo Wheelie Life</strong> features an extensive collection of the best motorcycle stunt games available online, including Wheelie Life, Wheelie Life 2, Wheelie Life 3, and many more exciting titles. Each game is handpicked to deliver authentic wheelie mechanics, challenging gameplay, and hours of entertainment. The <strong>SoFlo Wheelie Life</strong> platform ensures every player finds their perfect motorcycle gaming experience.
               </p>
 
               <p>
-                The <strong>SoFlo Wheelie Life</strong> game itself captures the essence of street motorcycle culture with its realistic bike handling, customizable motorcycles, and progressive difficulty system. Players can perform spectacular wheelies, execute complex stunts, and explore various urban environments inspired by South Florida's vibrant street racing scene. The game's intuitive controls make it accessible for newcomers while offering depth that challenges even experienced players.
+                The <strong>SoFlo Wheelie Life</strong> game itself captures the essence of street motorcycle culture with its realistic bike handling, customizable motorcycles, and progressive difficulty system. Players can perform spectacular wheelies, execute complex stunts, and explore various urban environments inspired by South Florida's vibrant street racing scene. The <strong>SoFlo Wheelie Life</strong> game's intuitive controls make it accessible for newcomers while offering depth that challenges even experienced players who want to master every aspect of wheelie riding.
               </p>
 
               <h3 className="text-2xl font-bold mt-8 mb-4 text-[#FF00FF]">
-                Master Motorcycle Wheelies and Stunts
+                Master Motorcycle Wheelies and Stunts with SoFlo Wheelie Life
               </h3>
 
               <p>
-                Learning to perform the perfect wheelie requires skill, timing, and practice. Our motorcycle wheelie games teach you essential techniques through progressive gameplay. Start with basic wheelie fundamentals in beginner-friendly wheelie games, then advance to more challenging motorcycle stunt simulators that test your balance, coordination, and reflexes. Every wheelie game in our collection offers unique challenges, from maintaining long-distance wheelies to executing precision stunts in tight urban environments.
+                Learning to perform the perfect wheelie requires skill, timing, and practice in <strong>SoFlo Wheelie Life</strong>. Our motorcycle wheelie games teach you essential techniques through progressive gameplay. Start with basic wheelie fundamentals in beginner-friendly wheelie games, then advance to more challenging motorcycle stunt simulators that test your balance, coordination, and reflexes. Every wheelie game in our <strong>SoFlo Wheelie Life</strong> collection offers unique challenges, from maintaining long-distance wheelies to executing precision stunts in tight urban environments.
               </p>
 
               <p>
-                The motorcycle stunt games and stunt simulator games on our platform provide realistic motorcycle physics that accurately replicate real-world bike behavior. Feel the weight transfer as you pop a wheelie, manage your balance during extended wheelie runs in our wheelie games, and nail perfect landings after aerial stunts. These motorcycle stunt simulators help develop an intuitive understanding of motorcycle dynamics while delivering thrilling wheelie game gameplay.
+                The motorcycle stunt games and stunt simulator games on our <strong>SoFlo Wheelie Life</strong> platform provide realistic motorcycle physics that accurately replicate real-world bike behavior. Feel the weight transfer as you pop a wheelie, manage your balance during extended wheelie runs in our wheelie games, and nail perfect landings after aerial stunts. These motorcycle stunt simulators help develop an intuitive understanding of motorcycle dynamics while delivering thrilling wheelie game gameplay.
               </p>
 
               <h3 className="text-2xl font-bold mt-8 mb-4 text-[#FF00FF]">
@@ -96,11 +96,11 @@ export default function Home() {
               </h3>
 
               <p>
-                All our motorcycle wheelie and stunt games are completely free to play online. We believe everyone should have access to high-quality wheelie games and motorcycle gaming experiences without barriers. Simply visit our website, choose your favorite motorcycle wheelie game, and start playing instantly in your web browser. No installations, no downloads, no sign-ups—just pure motorcycle stunt gaming fun. This accessibility makes <strong>SoFlo Wheelie Life</strong> perfect for quick wheelie game sessions during breaks or extended play sessions when you have more time.
+                All our motorcycle wheelie and stunt games are completely free to play online. We believe everyone should have access to high-quality wheelie games and motorcycle gaming experiences without barriers. Simply visit our <strong>SoFlo Wheelie Life</strong> website, choose your favorite motorcycle wheelie game, and start playing instantly in your web browser. No installations, no downloads, no sign-ups—just pure motorcycle stunt gaming fun. This accessibility makes <strong>SoFlo Wheelie Life</strong> perfect for quick wheelie game sessions during breaks or extended play sessions when you have more time to master advanced techniques.
               </p>
 
               <p>
-                Our wheelie games platform works seamlessly across all devices, including desktop computers, laptops, tablets, and smartphones. Whether you're at home, at school, or on the go, you can enjoy our collection of motorcycle stunt games and wheelie games. The responsive design ensures optimal motorcycle wheelie gameplay regardless of your screen size, while our stunt games load quickly even on slower internet connections.
+                Our <strong>SoFlo Wheelie Life</strong> wheelie games platform works seamlessly across all devices, including desktop computers, laptops, tablets, and smartphones. Whether you're at home, at school, or on the go, you can enjoy our collection of motorcycle stunt games and wheelie games. The responsive design ensures optimal motorcycle wheelie gameplay regardless of your screen size, while our <strong>SoFlo Wheelie Life</strong> stunt games load quickly even on slower internet connections.
               </p>
 
               <h3 className="text-2xl font-bold mt-8 mb-4 text-[#FF00FF]">
@@ -108,11 +108,11 @@ export default function Home() {
               </h3>
 
               <p>
-                Beyond the flagship <strong>SoFlo Wheelie Life</strong> motorcycle wheelie game, we offer a diverse selection of motorcycle racing and stunt titles. Try Wheelie Life 2 for enhanced graphics and new wheelie challenges, or jump into Wheelie Life 3 for the latest in wheelie gaming technology. Each sequel builds upon its predecessor with improved mechanics, more bikes to unlock, and increasingly creative stunt opportunities in our motorcycle stunt games.
+                Beyond the flagship <strong>SoFlo Wheelie Life</strong> motorcycle wheelie game, we offer a diverse selection of motorcycle racing and stunt titles. Try Wheelie Life 2 for enhanced graphics and new wheelie challenges, or jump into Wheelie Life 3 for the latest in wheelie gaming technology. Each sequel builds upon its predecessor with improved mechanics, more bikes to unlock, and increasingly creative stunt opportunities in our <strong>SoFlo Wheelie Life</strong> motorcycle stunt games collection.
               </p>
 
               <p>
-                For variety, explore our racing games like Moto X3M, which combines high-speed racing with death-defying stunts. Test your skills in Highway Rider Extreme, where you'll weave through traffic while pulling off incredible wheelies. Try the Wheelie Challenge for an endless runner-style experience focused purely on maintaining the longest wheelie possible. Every motorcycle wheelie game offers unique gameplay while maintaining the quality and excitement you expect from our motorcycle stunt games collection.
+                For variety, explore our racing games like Moto X3M, which combines high-speed racing with death-defying stunts. Test your skills in Highway Rider Extreme, where you'll weave through traffic while pulling off incredible wheelies. Try the Wheelie Challenge for an endless runner-style experience focused purely on maintaining the longest wheelie possible. Every motorcycle wheelie game on <strong>SoFlo Wheelie Life</strong> offers unique gameplay while maintaining the quality and excitement you expect from our motorcycle stunt games collection.
               </p>
 
               <h3 className="text-2xl font-bold mt-8 mb-4 text-[#FF00FF]">
@@ -120,11 +120,11 @@ export default function Home() {
               </h3>
 
               <p>
-                <strong>SoFlo Wheelie Life</strong> has built a thriving community of motorcycle gaming enthusiasts from around the world. Players share tips, tricks, and high scores while celebrating incredible stunt achievements. Join thousands of riders who have made our platform their go-to destination for motorcycle wheelie entertainment. Follow us on social media for game updates, community highlights, and exclusive content.
+                <strong>SoFlo Wheelie Life</strong> has built a thriving community of motorcycle gaming enthusiasts from around the world. Players share tips, tricks, and high scores while celebrating incredible stunt achievements in <strong>SoFlo Wheelie Life</strong> games. Join thousands of riders who have made our platform their go-to destination for motorcycle wheelie entertainment. Follow us on social media for <strong>SoFlo Wheelie Life</strong> game updates, community highlights, and exclusive content that will enhance your wheelie gaming experience.
               </p>
 
               <p>
-                Whether you're passionate about motorcycle culture, love stunt games, or simply enjoy casual browser gaming, <strong>SoFlo Wheelie Life</strong> welcomes you. Our commitment to delivering the best free online motorcycle games continues to grow with regular updates, new game additions, and community-driven improvements. Start your wheelie journey today and discover why players worldwide choose SoFlo Wheelie Life as their favorite motorcycle gaming destination.
+                Whether you're passionate about motorcycle culture, love stunt games, or simply enjoy casual browser gaming, <strong>SoFlo Wheelie Life</strong> welcomes you. Our commitment to delivering the best free online motorcycle games continues to grow with regular updates, new game additions, and community-driven improvements. Start your <strong>SoFlo Wheelie Life</strong> wheelie journey today and discover why players worldwide choose SoFlo Wheelie Life as their favorite motorcycle gaming destination.
               </p>
             </div>
           </div>
@@ -168,15 +168,15 @@ export default function Home() {
               </div>
 
               <div className="bg-gradient-to-br from-gray-900 to-black border border-[#FF00FF]/30 rounded-lg p-6">
-                <h3 className="text-xl font-bold mb-4 text-[#FF00FF]">Pro Tips</h3>
+                <h3 className="text-xl font-bold mb-4 text-[#FF00FF]">Pro Tips for SoFlo Wheelie Life</h3>
                 <ul className="space-y-3 text-gray-300">
                   <li className="flex items-start">
                     <span className="text-[#00D9FF] mr-2">•</span>
-                    <span>Start with lower speeds to master wheelie balance before attempting high-speed stunts</span>
+                    <span>Start with lower speeds in SoFlo Wheelie Life to master wheelie balance before attempting high-speed stunts</span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-[#00D9FF] mr-2">•</span>
-                    <span>Use subtle balance adjustments to maintain long wheelies—smooth is fast</span>
+                    <span>Use subtle balance adjustments to maintain long wheelies in SoFlo Wheelie Life—smooth is fast</span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-[#00D9FF] mr-2">•</span>
@@ -184,7 +184,7 @@ export default function Home() {
                   </li>
                   <li className="flex items-start">
                     <span className="text-[#00D9FF] mr-2">•</span>
-                    <span>Unlock better bikes by completing challenges and achieving high scores</span>
+                    <span>Unlock better bikes by completing challenges and achieving high scores in SoFlo Wheelie Life</span>
                   </li>
                   <li className="flex items-start">
                     <span className="text-[#00D9FF] mr-2">•</span>
@@ -240,7 +240,7 @@ export default function Home() {
                 <div className="text-5xl mb-4">🏍️</div>
                 <h3 className="text-xl font-bold mb-3 text-[#FF00FF]">Realistic Physics</h3>
                 <p className="text-gray-400">
-                  Experience authentic motorcycle behavior with advanced physics simulation that makes every wheelie feel real.
+                  Experience authentic motorcycle behavior in SoFlo Wheelie Life with advanced physics simulation that makes every wheelie feel real.
                 </p>
               </div>
 
@@ -248,7 +248,7 @@ export default function Home() {
                 <div className="text-5xl mb-4">🎮</div>
                 <h3 className="text-xl font-bold mb-3 text-[#FF00FF]">100% Free</h3>
                 <p className="text-gray-400">
-                  All our motorcycle games are completely free to play with no hidden costs, downloads, or registration required.
+                  All SoFlo Wheelie Life motorcycle games are completely free to play with no hidden costs, downloads, or registration required.
                 </p>
               </div>
 
@@ -256,7 +256,7 @@ export default function Home() {
                 <div className="text-5xl mb-4">⚡</div>
                 <h3 className="text-xl font-bold mb-3 text-[#FF00FF]">Instant Play</h3>
                 <p className="text-gray-400">
-                  Jump straight into the action with instant browser-based gameplay on any device, anywhere, anytime.
+                  Jump straight into SoFlo Wheelie Life action with instant browser-based gameplay on any device, anywhere, anytime.
                 </p>
               </div>
 
@@ -264,7 +264,7 @@ export default function Home() {
                 <div className="text-5xl mb-4">🎨</div>
                 <h3 className="text-xl font-bold mb-3 text-[#FF00FF]">Customization</h3>
                 <p className="text-gray-400">
-                  Unlock and customize dozens of motorcycles with unique stats, colors, and performance upgrades.
+                  Unlock and customize dozens of motorcycles in SoFlo Wheelie Life with unique stats, colors, and performance upgrades.
                 </p>
               </div>
 
