@@ -12,20 +12,12 @@ export default function Navigation() {
             </span>
           </Link>
 
-          <div className="flex items-center gap-6">
-            <Link
-              href="/guide"
-              className="text-gray-300 hover:text-[#00D9FF] transition-colors font-semibold"
-            >
-              Game Guide
-            </Link>
-            <a
-              href="#game"
-              className="bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] text-white px-6 py-2 rounded-lg font-semibold hover:opacity-90 transition-opacity"
-            >
-              Play Now
-            </a>
-          </div>
+          <a
+            href="#game"
+            className="bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] text-white px-6 py-2 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+          >
+            Play Now
+          </a>
         </div>
       </div>
     </nav>

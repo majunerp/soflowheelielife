@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import GameEmbed from '@/components/GameEmbed';
 import GameCard from '@/components/GameCard';
 import { getFeaturedGames } from '@/lib/games';
@@ -61,11 +60,11 @@ export default function Home() {
             </h2>
             <div className="prose prose-invert prose-lg max-w-none text-gray-300 space-y-6">
               <p>
-                Welcome to <strong>SoFlo Wheelie Life</strong>, your ultimate destination for free online motorcycle wheelie games and stunt simulators. Immerse yourself in the exhilarating world of South Florida street motorcycle culture, where mastering the perfect wheelie is an art form. Our platform brings you the most exciting collection of motorcycle stunt games, allowing you to experience the adrenaline rush of street wheelies right in your browser—no downloads required.
+                Welcome to <strong>SoFlo Wheelie Life</strong>, your ultimate destination for free online motorcycle wheelie games and stunt simulators. Immerse yourself in the exhilarating world of South Florida street motorcycle culture, where mastering the perfect wheelie is an art form. Our motorcycle wheelie games platform brings you the most exciting collection of motorcycle stunt games, allowing you to experience the adrenaline rush of street wheelies right in your browser—no downloads required.
               </p>
 
               <p>
-                <strong>SoFlo Wheelie Life</strong> is more than just a game; it's a complete motorcycle stunt gaming experience. Whether you're a beginner learning your first wheelie or an experienced rider perfecting advanced stunts, our games offer realistic physics, stunning graphics, and addictive gameplay that keeps you coming back for more. Experience the authentic street motorcycle culture of South Florida through our carefully curated collection of wheelie games and stunt simulators.
+                <strong>SoFlo Wheelie Life</strong> is more than just a game; it's a complete motorcycle stunt gaming experience. Whether you're a beginner learning your first wheelie in our wheelie games or an experienced rider perfecting advanced stunts, our motorcycle wheelie games offer realistic physics, stunning graphics, and addictive gameplay that keeps you coming back for more. Experience the authentic street motorcycle culture of South Florida through our carefully curated collection of wheelie games and motorcycle stunt simulators.
               </p>
 
               <h3 className="text-2xl font-bold mt-8 mb-4 text-[#FF00FF]">
@@ -85,11 +84,11 @@ export default function Home() {
               </h3>
 
               <p>
-                Learning to perform the perfect wheelie requires skill, timing, and practice. Our motorcycle wheelie games teach you essential techniques through progressive gameplay. Start with basic wheelie fundamentals in beginner-friendly games, then advance to more challenging stunt simulators that test your balance, coordination, and reflexes. Every game in our collection offers unique challenges, from maintaining long-distance wheelies to executing precision stunts in tight urban environments.
+                Learning to perform the perfect wheelie requires skill, timing, and practice. Our motorcycle wheelie games teach you essential techniques through progressive gameplay. Start with basic wheelie fundamentals in beginner-friendly wheelie games, then advance to more challenging motorcycle stunt simulators that test your balance, coordination, and reflexes. Every wheelie game in our collection offers unique challenges, from maintaining long-distance wheelies to executing precision stunts in tight urban environments.
               </p>
 
               <p>
-                The <strong>stunt simulator</strong> games on our platform provide realistic motorcycle physics that accurately replicate real-world bike behavior. Feel the weight transfer as you pop a wheelie, manage your balance during extended wheelie runs, and nail perfect landings after aerial stunts. These simulations help develop an intuitive understanding of motorcycle dynamics while delivering thrilling gameplay.
+                The motorcycle stunt games and stunt simulator games on our platform provide realistic motorcycle physics that accurately replicate real-world bike behavior. Feel the weight transfer as you pop a wheelie, manage your balance during extended wheelie runs in our wheelie games, and nail perfect landings after aerial stunts. These motorcycle stunt simulators help develop an intuitive understanding of motorcycle dynamics while delivering thrilling wheelie game gameplay.
               </p>
 
               <h3 className="text-2xl font-bold mt-8 mb-4 text-[#FF00FF]">
@@ -97,11 +96,11 @@ export default function Home() {
               </h3>
 
               <p>
-                All our motorcycle wheelie and stunt games are completely free to play online. We believe everyone should have access to high-quality gaming experiences without barriers. Simply visit our website, choose your favorite game, and start playing instantly in your web browser. No installations, no downloads, no sign-ups—just pure motorcycle gaming fun. This accessibility makes <strong>SoFlo Wheelie Life</strong> perfect for quick gaming sessions during breaks or extended play sessions when you have more time.
+                All our motorcycle wheelie and stunt games are completely free to play online. We believe everyone should have access to high-quality wheelie games and motorcycle gaming experiences without barriers. Simply visit our website, choose your favorite motorcycle wheelie game, and start playing instantly in your web browser. No installations, no downloads, no sign-ups—just pure motorcycle stunt gaming fun. This accessibility makes <strong>SoFlo Wheelie Life</strong> perfect for quick wheelie game sessions during breaks or extended play sessions when you have more time.
               </p>
 
               <p>
-                Our platform works seamlessly across all devices, including desktop computers, laptops, tablets, and smartphones. Whether you're at home, at school, or on the go, you can enjoy our collection of motorcycle stunt games. The responsive design ensures optimal gameplay regardless of your screen size, while the games load quickly even on slower internet connections.
+                Our wheelie games platform works seamlessly across all devices, including desktop computers, laptops, tablets, and smartphones. Whether you're at home, at school, or on the go, you can enjoy our collection of motorcycle stunt games and wheelie games. The responsive design ensures optimal motorcycle wheelie gameplay regardless of your screen size, while our stunt games load quickly even on slower internet connections.
               </p>
 
               <h3 className="text-2xl font-bold mt-8 mb-4 text-[#FF00FF]">
@@ -109,11 +108,11 @@ export default function Home() {
               </h3>
 
               <p>
-                Beyond the flagship <strong>SoFlo Wheelie Life</strong> game, we offer a diverse selection of motorcycle racing and stunt titles. Try Wheelie Life 2 for enhanced graphics and new challenges, or jump into Wheelie Life 3 for the latest in wheelie gaming technology. Each sequel builds upon its predecessor with improved mechanics, more bikes to unlock, and increasingly creative stunt opportunities.
+                Beyond the flagship <strong>SoFlo Wheelie Life</strong> motorcycle wheelie game, we offer a diverse selection of motorcycle racing and stunt titles. Try Wheelie Life 2 for enhanced graphics and new wheelie challenges, or jump into Wheelie Life 3 for the latest in wheelie gaming technology. Each sequel builds upon its predecessor with improved mechanics, more bikes to unlock, and increasingly creative stunt opportunities in our motorcycle stunt games.
               </p>
 
               <p>
-                For variety, explore our racing games like Moto X3M, which combines high-speed racing with death-defying stunts. Test your skills in Highway Rider Extreme, where you'll weave through traffic while pulling off incredible wheelies. Try the Wheelie Challenge for an endless runner-style experience focused purely on maintaining the longest wheelie possible. Every game offers unique gameplay while maintaining the quality and excitement you expect from motorcycle stunt games.
+                For variety, explore our racing games like Moto X3M, which combines high-speed racing with death-defying stunts. Test your skills in Highway Rider Extreme, where you'll weave through traffic while pulling off incredible wheelies. Try the Wheelie Challenge for an endless runner-style experience focused purely on maintaining the longest wheelie possible. Every motorcycle wheelie game offers unique gameplay while maintaining the quality and excitement you expect from our motorcycle stunt games collection.
               </p>
 
               <h3 className="text-2xl font-bold mt-8 mb-4 text-[#FF00FF]">
@@ -195,13 +194,36 @@ export default function Home() {
               </div>
             </div>
 
-            <div className="mt-8 text-center">
-              <Link
-                href="/guide"
-                className="inline-flex items-center text-[#00D9FF] hover:text-[#FF00FF] transition-colors font-semibold text-lg"
-              >
-                View Complete Game Guide & Advanced Techniques →
-              </Link>
+            {/* Wheelie Mastery Tutorial */}
+            <div className="mt-12 max-w-4xl mx-auto">
+              <h3 className="text-2xl font-bold mb-6 text-center text-[#00D9FF]">
+                Master Advanced Wheelie Techniques in SoFlo Wheelie Life
+              </h3>
+
+              <div className="prose prose-invert max-w-none text-gray-300 space-y-4">
+                <p>
+                  The <strong>wheelie</strong> is the cornerstone of <strong>SoFlo Wheelie Life</strong> motorcycle stunt games. Executing perfect wheelies in our motorcycle wheelie games requires understanding balance physics, throttle control, and weight distribution. Follow this comprehensive wheelie tutorial to master this essential skill.
+                </p>
+
+                <h4 className="text-xl font-bold mt-6 mb-3 text-[#FF00FF]">Beginner Wheelie Tutorial</h4>
+                <ol className="space-y-3 ml-6 list-decimal">
+                  <li><strong className="text-[#00D9FF]">Start at moderate speed:</strong> Begin accelerating in your motorcycle wheelie game using the up arrow or W key. Moderate speed provides better wheelie control for learning.</li>
+                  <li><strong className="text-[#00D9FF]">Initiate the wheelie:</strong> Press and hold Space to lift the front wheel. In <strong>SoFlo Wheelie Life</strong>, this transfers weight to the rear and elevates the front wheel.</li>
+                  <li><strong className="text-[#00D9FF]">Find the balance point:</strong> Use left/right arrows (or A/D) to maintain your motorcycle wheelie. The goal is staying on one wheel without flipping backward.</li>
+                  <li><strong className="text-[#00D9FF]">Maintain the wheelie:</strong> Continue accelerating gently in your stunt game while making micro-adjustments. Smooth inputs prevent instability in motorcycle stunt games.</li>
+                  <li><strong className="text-[#00D9FF]">Land safely:</strong> Ease off throttle and shift weight forward to bring the front wheel down smoothly in your wheelie game.</li>
+                </ol>
+
+                <h4 className="text-xl font-bold mt-6 mb-3 text-[#FF00FF]">Advanced Wheelie Techniques</h4>
+                <p>
+                  Once you've mastered basic wheelies in <strong>SoFlo Wheelie Life</strong>, challenge yourself with these advanced motorcycle stunt techniques:
+                </p>
+                <ul className="space-y-2 ml-6">
+                  <li><strong className="text-[#00D9FF]">High-Speed Wheelies:</strong> Performing wheelies at maximum velocity in motorcycle stunt games requires lightning-fast balance corrections.</li>
+                  <li><strong className="text-[#00D9FF]">Extended Wheelie Runs:</strong> The Wheelie Challenge tests how long you can maintain wheelies in our motorcycle wheelie games.</li>
+                  <li><strong className="text-[#00D9FF]">Combo Wheelies:</strong> Chain wheelies with jumps and flips in <strong>SoFlo Wheelie Life</strong> stunt games for higher scores.</li>
+                </ul>
+              </div>
             </div>
           </div>
         </section>
