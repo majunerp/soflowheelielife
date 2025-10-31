@@ -3,8 +3,7 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-# Crawl delay for polite crawling
-Crawl-delay: 1
+
 
 # Sitemaps
 Sitemap: https://soflo-wheelie-life.com/sitemap.xml
