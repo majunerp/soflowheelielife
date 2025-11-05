@@ -11,9 +11,14 @@ export default function GameCard({ game }: GameCardProps) {
     <Link href={`/games/${game.slug}`} className="group">
       <div className="bg-gradient-to-br from-gray-900 to-black border border-[#00D9FF]/20 rounded-lg overflow-hidden transition-all duration-300 hover:border-[#00D9FF] hover:-translate-y-1 hover:shadow-xl hover:shadow-[#00D9FF]/20">
         <div className="relative aspect-video overflow-hidden bg-gray-800">
-          <div className="w-full h-full flex items-center justify-center bg-gradient-to-br from-gray-800 to-gray-900">
-            <span className="text-6xl">🏍️</span>
-          </div>
+          <Image
+            src={game.thumbnail}
+            alt={game.title}
+            width={273}
+            height={154}
+            className="w-full h-full object-cover"
+            loading="lazy"
+          />
           {game.featured && (
             <div className="absolute top-2 right-2 bg-gradient-to-r from-[#FFD700] to-[#FFA500] text-black px-2 py-1 rounded text-xs font-bold">
               FEATURED

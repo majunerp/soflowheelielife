@@ -4,6 +4,7 @@ import Script from "next/script";
 import "./globals.css";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
+import Sidebar from "@/components/Sidebar";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -93,9 +94,12 @@ export default function RootLayout({
           `}
         </Script>
 
-        <Navigation />
-        {children}
-        <Footer />
+        <Sidebar />
+        <div className="md:ml-64 flex flex-col min-h-screen">
+          <Navigation />
+          {children}
+          <Footer />
+        </div>
       </body>
     </html>
   );

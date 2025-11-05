@@ -2,15 +2,23 @@ import Link from 'next/link';
 
 export default function Navigation() {
   return (
-    <nav className="bg-black/90 backdrop-blur-sm border-b border-[#00D9FF]/20 sticky top-0 z-50">
+    <nav className="bg-black/90 backdrop-blur-sm border-b border-[#00D9FF]/20 sticky top-0 z-30">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
-          <Link href="/" className="flex items-center space-x-2 group">
+          {/* Logo - Hidden on desktop since it's in sidebar */}
+          <Link href="/" className="flex items-center space-x-2 group md:invisible">
             <span className="text-2xl">🏍️</span>
             <span className="text-xl font-bold bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] bg-clip-text text-transparent">
               SoFlo Wheelie Life
             </span>
           </Link>
+
+          {/* Desktop: Show title */}
+          <div className="hidden md:block">
+            <h1 className="text-lg font-semibold text-gray-300">
+              Free Motorcycle Wheelie Games
+            </h1>
+          </div>
 
           <a
             href="#game"

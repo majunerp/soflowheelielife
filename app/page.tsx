@@ -49,6 +49,95 @@ export default function Home() {
                 title="SoFlo Wheelie Life - Motorcycle Wheelie Game"
               />
             </div>
+
+            {/* More Games Section */}
+            <div className="max-w-7xl mx-auto mt-16">
+              <h2 className="text-3xl md:text-4xl font-bold mb-8 text-center text-white">
+                More Wheelie Games
+              </h2>
+              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
+                {/* Wheelie Games Collection Card */}
+                <a
+                  href="/wheelie-games"
+                  className="group relative bg-gradient-to-br from-gray-800 to-gray-900 rounded-xl overflow-hidden border-2 border-[#00D9FF]/30 hover:border-[#FF00FF]/50 transition-all duration-300 hover:shadow-xl hover:shadow-[#FF00FF]/20 hover:scale-105"
+                >
+                  <div className="aspect-square flex flex-col items-center justify-center p-4 bg-gradient-to-br from-[#00D9FF]/10 to-[#FF00FF]/10">
+                    <div className="text-5xl mb-3">🏍️</div>
+                    <h3 className="text-lg font-bold text-center text-white group-hover:text-[#00D9FF] transition-colors">
+                      Wheelie Games
+                    </h3>
+                    <p className="text-xs text-gray-400 text-center mt-2">
+                      6 Games
+                    </p>
+                  </div>
+                  <div className="absolute top-2 right-2 bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] text-white text-xs font-bold px-2 py-1 rounded">
+                    NEW
+                  </div>
+                </a>
+
+                {/* Placeholder cards for future game pages */}
+                <div className="relative bg-gradient-to-br from-gray-800 to-gray-900 rounded-xl overflow-hidden border-2 border-gray-700/30 opacity-50">
+                  <div className="aspect-square flex flex-col items-center justify-center p-4">
+                    <div className="text-5xl mb-3">🏁</div>
+                    <h3 className="text-lg font-bold text-center text-gray-500">
+                      Racing Games
+                    </h3>
+                    <p className="text-xs text-gray-600 text-center mt-2">
+                      Coming Soon
+                    </p>
+                  </div>
+                </div>
+
+                <div className="relative bg-gradient-to-br from-gray-800 to-gray-900 rounded-xl overflow-hidden border-2 border-gray-700/30 opacity-50">
+                  <div className="aspect-square flex flex-col items-center justify-center p-4">
+                    <div className="text-5xl mb-3">🎯</div>
+                    <h3 className="text-lg font-bold text-center text-gray-500">
+                      Stunt Games
+                    </h3>
+                    <p className="text-xs text-gray-600 text-center mt-2">
+                      Coming Soon
+                    </p>
+                  </div>
+                </div>
+
+                <div className="relative bg-gradient-to-br from-gray-800 to-gray-900 rounded-xl overflow-hidden border-2 border-gray-700/30 opacity-50">
+                  <div className="aspect-square flex flex-col items-center justify-center p-4">
+                    <div className="text-5xl mb-3">👾</div>
+                    <h3 className="text-lg font-bold text-center text-gray-500">
+                      Arcade Games
+                    </h3>
+                    <p className="text-xs text-gray-600 text-center mt-2">
+                      Coming Soon
+                    </p>
+                  </div>
+                </div>
+
+                <div className="relative bg-gradient-to-br from-gray-800 to-gray-900 rounded-xl overflow-hidden border-2 border-gray-700/30 opacity-50">
+                  <div className="aspect-square flex flex-col items-center justify-center p-4">
+                    <div className="text-5xl mb-3">⚡</div>
+                    <h3 className="text-lg font-bold text-center text-gray-500">
+                      Action Games
+                    </h3>
+                    <p className="text-xs text-gray-600 text-center mt-2">
+                      Coming Soon
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              {/* View All Button */}
+              <div className="text-center mt-8">
+                <a
+                  href="/wheelie-games"
+                  className="inline-flex items-center gap-2 bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] text-white px-8 py-3 rounded-lg font-bold hover:opacity-90 transition-opacity"
+                >
+                  <span>View All Wheelie Games</span>
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                  </svg>
+                </a>
+              </div>
+            </div>
           </div>
         </section>
 
