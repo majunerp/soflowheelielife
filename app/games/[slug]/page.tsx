@@ -79,7 +79,7 @@ export default async function GamePage({ params }: { params: Promise<{ slug: str
           {/* Back Button */}
           <div className="mb-6">
             <a
-              href="/wheelie-games"
+              href="/games"
               className="inline-flex items-center gap-2 text-[#00D9FF] hover:text-[#FF00FF] transition-colors"
             >
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -161,7 +161,7 @@ export default async function GamePage({ params }: { params: Promise<{ slug: str
 
               <div className="text-center mt-8">
                 <a
-                  href="/wheelie-games"
+                  href="/games"
                   className="inline-flex items-center gap-2 bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] text-white px-8 py-3 rounded-lg font-bold hover:opacity-90 transition-opacity"
                 >
                   <span>Browse All Wheelie Games</span>

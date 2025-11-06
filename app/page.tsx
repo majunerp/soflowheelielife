@@ -58,7 +58,7 @@ export default function Home() {
               <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
                 {/* Wheelie Games Collection Card */}
                 <a
-                  href="/wheelie-games"
+                  href="/games"
                   className="group relative bg-gradient-to-br from-gray-800 to-gray-900 rounded-xl overflow-hidden border-2 border-[#00D9FF]/30 hover:border-[#FF00FF]/50 transition-all duration-300 hover:shadow-xl hover:shadow-[#FF00FF]/20 hover:scale-105"
                 >
                   <div className="aspect-square flex flex-col items-center justify-center p-4 bg-gradient-to-br from-[#00D9FF]/10 to-[#FF00FF]/10">
@@ -128,7 +128,7 @@ export default function Home() {
               {/* View All Button */}
               <div className="text-center mt-8">
                 <a
-                  href="/wheelie-games"
+                  href="/games"
                   className="inline-flex items-center gap-2 bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] text-white px-8 py-3 rounded-lg font-bold hover:opacity-90 transition-opacity"
                 >
                   <span>View All Wheelie Games</span>

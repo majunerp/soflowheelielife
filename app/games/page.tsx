@@ -79,7 +79,7 @@ export default function WheelieGamesPage() {
             {games.map((game) => (
               <Link
                 key={game.id}
-                href={`/wheelie-games/${game.slug}`}
+                href={`/games/${game.slug}`}
                 className="group bg-gradient-to-br from-gray-900 to-black border-2 border-[#00D9FF]/30 rounded-xl overflow-hidden hover:border-[#FF00FF]/50 transition-all duration-300 hover:shadow-xl hover:shadow-[#FF00FF]/20 hover:scale-105"
               >
                 <div className="aspect-video w-full bg-black relative overflow-hidden">

@@ -17,7 +17,7 @@ export default function Sidebar() {
     {
       title: 'Wheelie Games',
       icon: '🏍️',
-      href: '/wheelie-games',
+      href: '/games',
     },
   ];
 
