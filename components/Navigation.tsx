@@ -15,9 +15,9 @@ export default function Navigation() {
 
           {/* Desktop: Show title */}
           <div className="hidden md:block">
-            <h1 className="text-lg font-semibold text-gray-300">
+            <div className="text-lg font-semibold text-gray-300">
               Free Motorcycle Wheelie Games
-            </h1>
+            </div>
           </div>
 
           <a
