@@ -4,6 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Terms of Service - SoFlo Wheelie Life',
   description: 'Terms of Service for SoFlo Wheelie Life - Free online motorcycle wheelie games',
+  alternates: {
+    canonical: 'https://soflo-wheelie-life.com/terms',
+  },
 };
 
 export default function TermsPage() {

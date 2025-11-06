@@ -60,6 +60,9 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: game.title,
     description: game.description,
     keywords: game.keywords,
+    alternates: {
+      canonical: `https://soflo-wheelie-life.com/games/${slug}`,
+    },
   };
 }
 

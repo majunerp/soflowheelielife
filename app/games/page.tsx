@@ -6,6 +6,9 @@ export const metadata: Metadata = {
   title: 'Free Wheelie Game Collection - Play Best Wheelie Games Online',
   description: 'Play the best free wheelie game collection online. Enjoy motorcycle wheelie games, bike stunt games, and driving simulators. Master your wheelie game skills today!',
   keywords: 'wheelie game, wheelie games, motorcycle wheelie game, bike wheelie game, free wheelie game, online wheelie game',
+  alternates: {
+    canonical: 'https://soflo-wheelie-life.com/games',
+  },
 };
 
 export default function WheelieGamesPage() {

@@ -4,6 +4,9 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Privacy Policy - SoFlo Wheelie Life',
   description: 'Privacy Policy for SoFlo Wheelie Life - How we protect your privacy while you play free motorcycle games',
+  alternates: {
+    canonical: 'https://soflo-wheelie-life.com/privacy',
+  },
 };
 
 export default function PrivacyPage() {
