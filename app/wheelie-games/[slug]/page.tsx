@@ -38,11 +38,11 @@ const games: Record<string, {
     url: 'https://games.crazygames.com/en_US/super-bike-the-champion/index.html?v=1.344',
     keywords: 'super bike champion, wheelie game, bike racing, championship'
   },
-  'traffic-rider-pro': {
-    title: 'Traffic Rider Pro - Free Wheelie Game',
-    description: 'Play Traffic Rider Pro - Enhanced traffic riding experience with Unity graphics in this wheelie game. Play free online now!',
-    url: 'https://traffic-rider-vvq.game-files.crazygames.com/unity/unity2020/traffic-rider-vvq.html?v=1.344',
-    keywords: 'traffic rider pro, wheelie game, unity game, motorcycle racing'
+  'dirt-bike-mad-skills': {
+    title: 'Dirt Bike Mad Skills - Free Wheelie Game',
+    description: 'Play Dirt Bike Mad Skills - Master extreme dirt bike stunts and offroad challenges in this wheelie game. Play free online now!',
+    url: 'https://games.crazygames.com/en_US/dirt-bike-mad-skills/index.html?v=1.344',
+    keywords: 'dirt bike mad skills, wheelie game, dirt bike, offroad motorcycle'
   }
 };
 

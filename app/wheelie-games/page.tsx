@@ -51,12 +51,12 @@ export default function WheelieGamesPage() {
       url: 'https://games.crazygames.com/en_US/super-bike-the-champion/index.html?v=1.344'
     },
     {
-      id: 'traffic-rider-pro',
-      title: 'Traffic Rider Pro',
-      slug: 'traffic-rider-pro',
-      thumbnail: '/images/games/traffic-rider-vvq_16x9-cover.avif',
-      description: 'Enhanced traffic riding experience with Unity graphics',
-      url: 'https://traffic-rider-vvq.game-files.crazygames.com/unity/unity2020/traffic-rider-vvq.html?v=1.344'
+      id: 'dirt-bike-mad-skills',
+      title: 'Dirt Bike Mad Skills',
+      slug: 'dirt-bike-mad-skills',
+      thumbnail: '/images/games/dirt-bike-mad-skills_16x9-cover.avif',
+      description: 'Master extreme dirt bike stunts and offroad challenges',
+      url: 'https://games.crazygames.com/en_US/dirt-bike-mad-skills/index.html?v=1.344'
     }
   ];
 
