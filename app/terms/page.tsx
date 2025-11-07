@@ -51,6 +51,7 @@ export default function TermsPage() {
               <p>
                 SoFlo Wheelie Life provides free online motorcycle wheelie games for entertainment purposes. You agree to:
               </p>
+              <h3 className="text-xl font-bold text-[#FF00FF] mt-6 mb-3">User Responsibilities</h3>
               <ul className="list-disc ml-6 space-y-2 mt-4">
                 <li>Use the service only for lawful purposes</li>
                 <li>Not attempt to hack, disrupt, or damage our website</li>
@@ -62,6 +63,7 @@ export default function TermsPage() {
 
             <section>
               <h2 className="text-2xl font-bold text-[#00D9FF] mb-4">3. Intellectual Property</h2>
+              <h3 className="text-xl font-bold text-[#FF00FF] mt-6 mb-3">Content Ownership</h3>
               <p>
                 All content on SoFlo Wheelie Life, including but not limited to text, graphics, logos, images, and software, is the property of SoFlo Wheelie Life or its content suppliers and is protected by copyright and intellectual property laws. The games embedded on our site are provided by third-party developers and remain their property.
               </p>
@@ -79,6 +81,7 @@ export default function TermsPage() {
               <p>
                 SoFlo Wheelie Life is provided "as is" and "as available" without any warranties of any kind, either express or implied. We do not guarantee that:
               </p>
+              <h3 className="text-xl font-bold text-[#FF00FF] mt-6 mb-3">Service Availability</h3>
               <ul className="list-disc ml-6 space-y-2 mt-4">
                 <li>The service will be uninterrupted, secure, or error-free</li>
                 <li>The games will always be available or function properly</li>
@@ -131,6 +134,7 @@ export default function TermsPage() {
 
             <section>
               <h2 className="text-2xl font-bold text-[#00D9FF] mb-4">12. Contact Information</h2>
+              <h3 className="text-xl font-bold text-[#FF00FF] mt-6 mb-3">Get in Touch</h3>
               <p>
                 If you have any questions about these Terms of Service, please contact us at:
               </p>
