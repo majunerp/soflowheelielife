@@ -10,37 +10,37 @@ const games: Record<string, {
 }> = {
   'mx-offroad-master': {
     title: 'MX Offroad Master - Free Wheelie Game',
-    description: 'Play MX Offroad Master - Master extreme offroad motorcycle racing and stunts in this thrilling wheelie game. Play free online now!',
+    description: 'Play MX Offroad Master free online! Master extreme offroad motorcycle racing and perform epic stunts in this thrilling wheelie game. No downloads needed.',
     url: 'https://games.crazygames.com/en_US/mx-offroad-master/index.html?isNewUser=false&v=1.344',
     keywords: 'mx offroad master, wheelie game, motorcycle game, offroad racing'
   },
   'traffic-rider': {
     title: 'Traffic Rider - Free Wheelie Game',
-    description: 'Play Traffic Rider - Ride through endless traffic on the highway in this exciting wheelie game. Play free online now!',
+    description: 'Play Traffic Rider free online! Ride through endless highway traffic, perform wheelies, and master motorcycle skills in this exciting game. Start playing now!',
     url: 'https://games.crazygames.com/en_US/traffic-rider-vvq/index.html?v=1.344',
     keywords: 'traffic rider, wheelie game, motorcycle game, traffic racing'
   },
   'moto-x3m-4': {
     title: 'Moto X3M 4 - Free Wheelie Game',
-    description: 'Play Moto X3M 4 - Extreme motorcycle stunts and racing action in this amazing wheelie game. Play free online now!',
+    description: 'Play Moto X3M 4 free online! Experience extreme motorcycle stunts and intense racing action in this amazing wheelie game. No downloads, play instantly!',
     url: 'https://games.crazygames.com/en_US/moto-x3m-4/index.html?v=1.344',
     keywords: 'moto x3m 4, wheelie game, motorcycle stunts, racing game'
   },
   'super-mx-last-season': {
     title: 'Super MX Last Season - Free Wheelie Game',
-    description: 'Play Super MX Last Season - Professional motocross racing championship wheelie game. Play free online now!',
+    description: 'Play Super MX Last Season free online! Compete in professional motocross racing championship and master wheelie skills. Start your racing career now!',
     url: 'https://games.crazygames.com/en_US/super-mx-last-season/index.html?v=1.344',
     keywords: 'super mx, wheelie game, motocross, racing championship'
   },
   'super-bike-champion': {
     title: 'Super Bike The Champion - Free Wheelie Game',
-    description: 'Play Super Bike The Champion - Become the ultimate super bike racing champion in this wheelie game. Play free online now!',
+    description: 'Play Super Bike Champion free online! Become the ultimate racing champion and master wheelie techniques in this thrilling bike game. Play now for free!',
     url: 'https://games.crazygames.com/en_US/super-bike-the-champion/index.html?v=1.344',
     keywords: 'super bike champion, wheelie game, bike racing, championship'
   },
   'dirt-bike-mad-skills': {
     title: 'Dirt Bike Mad Skills - Free Wheelie Game',
-    description: 'Play Dirt Bike Mad Skills - Master extreme dirt bike stunts and offroad challenges in this wheelie game. Play free online now!',
+    description: 'Play Dirt Bike Mad Skills free online! Master extreme dirt bike stunts and offroad challenges in this exciting wheelie game. No downloads required!',
     url: 'https://games.crazygames.com/en_US/dirt-bike-mad-skills/index.html?v=1.344',
     keywords: 'dirt bike mad skills, wheelie game, dirt bike, offroad motorcycle'
   }
@@ -134,9 +134,21 @@ export default async function GamePage({ params }: { params: Promise<{ slug: str
                 {game.description} This <strong>wheelie game</strong> offers an incredible motorcycle gaming experience with realistic physics, stunning graphics, and challenging gameplay. Perfect for both beginners and experienced <strong>wheelie game</strong> enthusiasts looking for their next favorite motorcycle adventure.
               </p>
 
+              <h3 className="text-2xl font-bold mt-6 mb-3 text-[#FF00FF]">
+                Why Play This Game?
+              </h3>
+
+              <p>
+                This <strong>wheelie game</strong> stands out with its authentic motorcycle physics engine and smooth controls. Whether you're a casual player or a hardcore enthusiast, you'll find the perfect balance of challenge and fun in every ride.
+              </p>
+
               <h2 className="text-3xl font-bold mt-8 mb-4 text-[#00D9FF]">
                 How to Play
               </h2>
+
+              <h3 className="text-2xl font-bold mt-6 mb-3 text-[#FF00FF]">
+                Game Controls
+              </h3>
 
               <p>
                 This <strong>wheelie game</strong> features intuitive controls designed for maximum enjoyment. Use arrow keys or WASD to control your motorcycle, perform wheelies, and navigate through challenging courses. Master the balance between speed and control to achieve the highest scores in this exciting <strong>wheelie game</strong>.
@@ -145,6 +157,10 @@ export default async function GamePage({ params }: { params: Promise<{ slug: str
               <h2 className="text-3xl font-bold mt-8 mb-4 text-[#00D9FF]">
                 Game Features
               </h2>
+
+              <h3 className="text-2xl font-bold mt-6 mb-3 text-[#FF00FF]">
+                Key Highlights
+              </h3>
 
               <ul className="space-y-2 ml-6">
                 <li>Realistic motorcycle physics and handling</li>
