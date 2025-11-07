@@ -3,9 +3,9 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 export const metadata: Metadata = {
-  title: 'Free Wheelie Game Collection - Play Best Wheelie Games Online',
-  description: 'Play the best free wheelie game collection online. Enjoy motorcycle wheelie games, bike stunt games, and driving simulators. Master your wheelie game skills today!',
-  keywords: 'wheelie game, wheelie games, motorcycle wheelie game, bike wheelie game, free wheelie game, online wheelie game',
+  title: 'Free Wheelie Game Collection - Play Best Games Online',
+  description: 'Play the best free wheelie game collection online. Enjoy motorcycle games, bike stunts, and driving simulators. Master your skills today!',
+  keywords: 'wheelie game, motorcycle game, bike game, free wheelie, online wheelie game',
   alternates: {
     canonical: 'https://soflo-wheelie-life.com/games',
   },
