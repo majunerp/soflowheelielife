@@ -19,11 +19,35 @@ export default function Footer() {
           </p>
         </div>
 
-        <div className="border-t border-[#00D9FF]/20 mt-8 pt-8 text-center text-gray-400 text-sm space-y-2">
-          <p>&copy; {currentYear} SoFlo Wheelie Life. All rights reserved. Play free motorcycle wheelie games online.</p>
-          <p>
-            Contact: <a href="mailto:support@soflo-wheelie-life.com" className="text-[#00D9FF] hover:text-[#FF00FF] transition-colors">support@soflo-wheelie-life.com</a>
-          </p>
+        <div className="border-t border-[#00D9FF]/20 mt-8 pt-8">
+          {/* Legal Links */}
+          <div className="flex flex-wrap justify-center gap-6 mb-6">
+            <Link
+              href="/terms"
+              className="text-gray-400 hover:text-[#00D9FF] transition-colors text-sm"
+            >
+              Terms of Service
+            </Link>
+            <span className="text-gray-600">•</span>
+            <Link
+              href="/privacy"
+              className="text-gray-400 hover:text-[#00D9FF] transition-colors text-sm"
+            >
+              Privacy Policy
+            </Link>
+            <span className="text-gray-600">•</span>
+            <a
+              href="mailto:support@soflo-wheelie-life.com"
+              className="text-gray-400 hover:text-[#00D9FF] transition-colors text-sm"
+            >
+              Contact Us
+            </a>
+          </div>
+
+          {/* Copyright */}
+          <div className="text-center text-gray-400 text-sm">
+            <p>&copy; {currentYear} SoFlo Wheelie Life. All rights reserved. Play free motorcycle wheelie games online.</p>
+          </div>
         </div>
       </div>
     </footer>
