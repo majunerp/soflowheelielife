@@ -17,6 +17,9 @@ export default function Footer() {
           <p className="text-gray-400">
             Experience the ultimate collection of free online motorcycle wheelie and stunt games. Master wheelies, perform incredible stunts, and dominate the streets in your browser.
           </p>
+          <p className="text-gray-400 mt-4">
+            Contact: <a href="mailto:support@soflo-wheelie-life.com" className="text-[#00D9FF] hover:text-[#FF00FF] transition-colors">support@soflo-wheelie-life.com</a>
+          </p>
         </div>
 
         <div className="border-t border-[#00D9FF]/20 mt-8 pt-8">
@@ -35,13 +38,6 @@ export default function Footer() {
             >
               Privacy Policy
             </Link>
-            <span className="text-gray-600">•</span>
-            <a
-              href="mailto:support@soflo-wheelie-life.com"
-              className="text-gray-400 hover:text-[#00D9FF] transition-colors text-sm"
-            >
-              Contact Us
-            </a>
           </div>
 
           {/* Copyright */}
