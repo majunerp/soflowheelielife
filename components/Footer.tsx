@@ -6,20 +6,33 @@ export default function Footer() {
   return (
     <footer className="bg-black border-t border-[#00D9FF]/20 mt-auto">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        {/* Brand */}
-        <div className="max-w-2xl">
-          <Link href="/" className="flex items-center space-x-2 mb-4">
-            <span className="text-2xl">🏍️</span>
-            <span className="text-xl font-bold bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] bg-clip-text text-transparent">
-              SoFlo Wheelie Life
-            </span>
-          </Link>
-          <p className="text-gray-400">
-            Experience the ultimate collection of free online motorcycle wheelie and stunt games. Master wheelies, perform incredible stunts, and dominate the streets in your browser.
-          </p>
-          <p className="text-gray-400 mt-4">
-            Contact: <a href="mailto:support@soflo-wheelie-life.com" className="text-[#00D9FF] hover:text-[#FF00FF] transition-colors">support@soflo-wheelie-life.com</a>
-          </p>
+        <div className="grid gap-10 md:grid-cols-[2fr,1fr]">
+          {/* Brand */}
+          <div className="max-w-2xl">
+            <Link href="/" className="flex items-center space-x-2 mb-4">
+              <span className="text-2xl">🏍️</span>
+              <span className="text-xl font-bold bg-gradient-to-r from-[#00D9FF] to-[#FF00FF] bg-clip-text text-transparent">
+                SoFlo Wheelie Life
+              </span>
+            </Link>
+            <p className="text-gray-400">
+              Experience the ultimate collection of free online motorcycle wheelie and stunt games. Master wheelies, perform incredible stunts, and dominate the streets in your browser.
+            </p>
+            <p className="text-gray-400 mt-4">
+              Contact: <a href="mailto:support@soflo-wheelie-life.com" className="text-[#00D9FF] hover:text-[#FF00FF] transition-colors">support@soflo-wheelie-life.com</a>
+            </p>
+          </div>
+
+          <div>
+            <h4 className="text-sm font-semibold text-gray-300 uppercase tracking-wider mb-4">Recommended Sites</h4>
+            <ul className="space-y-2">
+              <li>
+                <a href="https://arcraiderscheatsheet.org" className="text-gray-400 hover:text-white text-sm">
+                  arc raiders cheat sheet
+                </a>
+              </li>
+            </ul>
+          </div>
         </div>
 
         <div className="border-t border-[#00D9FF]/20 mt-8 pt-8">
